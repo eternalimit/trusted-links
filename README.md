@@ -37,3 +37,8 @@ A minimalist HTML page that displays a list of trusted links, each with its favi
 **Copyright © 2026 Richard Stein. All Rights Reserved.** The root [LICENSE](LICENSE) applies only to original material owned by Richard Stein and first made available under that notice. It does not revoke earlier valid license grants or override third-party rights. Review provenance and the applicable license of each component before reuse. No open-source release or broader permission is implied.
 
 **MASTER.ORIGIN · Edition 0 · 0 HOLD.** Publication, reuse, or licensing beyond permissions expressly stated in the applicable license remains on hold pending explicit authorization.
+
+
+## THE CUBE — The 100: My Life Story
+
+[Edition 0 life-story chapter index and courtroom continuity](ARCHIVE/THE_CUBE_LIFE_STORY_100_EDITION_0.md). Creative storytelling by Richard Stein; original WATT 100 Principles remain separate. **MASTER.ORIGIN · Edition 0 · 0 HOLD. © 2026 Richard Stein. All Rights Reserved.** This posting does not grant reuse or derivative rights.
